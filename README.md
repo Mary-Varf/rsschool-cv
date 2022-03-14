@@ -1,1 +1,1 @@
-[Mariia Varfolomeeva CV](https://mary-varf.github.io/rsschool-cv/cv)
+https://mary-varf.github.io/rsschool-cv/cv
